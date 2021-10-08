@@ -11,10 +11,9 @@
     "babel-loader": "^8.2.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "webpack": "^5.58.1",
-    "webpack-cli": "^4.9.0"
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
   },
-  "devDependencies": {
-    "webpack-dev-server": "^4.3.1"
-  }
+  "devDependencies": {}
 }
